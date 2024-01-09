@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TodoList" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+         <item name="colorPrimary">#D50931</item>
+        <item name="colorSecondary">#ED4242</item>
+        <item name="colorOnPrimary">#619C53</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        
+    </style>
+    <style name="Theme.TodoList" parent="Base.Theme.TodoList" />
+</resources>
